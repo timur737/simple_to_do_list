@@ -1,2 +1,5 @@
-# simple_to_do_list
-implemented using OOP
+#Simple To Do List 
+
+---
+
+###implemented using oop
